@@ -8,8 +8,10 @@ The goal is to transform raw sales data into clear and actionable insights for b
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Video  
 [Watch the Dashboard in Action](https://github.com/AboubakerRiahi/Pizza-Sales-Dashboard-Power-BI/blob/main/dashboard_demo.mp4))
+
+"If the video doesn’t show, you can download it by clicking on 'View Raw'."
 
 ---
 
